@@ -1,0 +1,13 @@
+Amadej/50
+Branka/8
+Ciril/61
+Draga/78
+Erazem/78
+Fran/1
+Lena/8
+Nedeljko/55
+Osman/88
+Petja/34
+Rebeka/7
+Timotej/2
+Zofija/57

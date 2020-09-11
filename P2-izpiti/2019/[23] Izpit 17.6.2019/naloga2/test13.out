@@ -1,0 +1,13 @@
+Adolf/12
+Brigita/94
+Dean/80
+Ernest/96
+Ibrahim/78
+Ljudmila/60
+Majda/41
+Oliver/36
+Rajko/45
+Slavka/27
+Tara/49
+Vojko/46
+Zlatka/29

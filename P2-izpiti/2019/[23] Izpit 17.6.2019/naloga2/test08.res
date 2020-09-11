@@ -1,0 +1,9 @@
+Amadeja/25
+Daniela/84
+Edvard/77
+Feliks/50
+Ina/95
+Janez/20
+Kenan/38
+Ladislava/42
+Tomo/76

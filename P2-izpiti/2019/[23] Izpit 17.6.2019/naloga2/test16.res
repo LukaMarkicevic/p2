@@ -1,0 +1,15 @@
+Adolf/68
+Bernardka/31
+Din/18
+Emma/16
+Gaia/60
+Indira/26
+Jasna/74
+Karol/58
+Lavra/22
+Marjetica/31
+Nace/78
+Olga/93
+Regina/95
+Samir/58
+Tea/99

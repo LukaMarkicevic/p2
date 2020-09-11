@@ -1,0 +1,12 @@
+Anita/62
+Boris/40
+Cvetka/56
+Elvedin/2
+Hanna/4
+Justina/1
+Kristian/79
+Ljiljana/97
+Miha/1
+Pavel/14
+Tobija/74
+Zarja/1

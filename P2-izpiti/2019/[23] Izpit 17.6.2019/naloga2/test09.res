@@ -1,0 +1,9 @@
+Almir/62
+Elvira/10
+Hinko/46
+Ljudmila/42
+Melita/97
+Nermin/98
+Ota/7
+Rihard/54
+Samir/87

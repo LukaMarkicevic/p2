@@ -1,0 +1,9 @@
+Amel/20
+Davorin/57
+Gaia/27
+Jadran/80
+Lukas/37
+Magdalena/8
+Silvester/57
+Tia/87
+Zoja/38

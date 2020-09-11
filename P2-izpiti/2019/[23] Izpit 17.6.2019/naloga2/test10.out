@@ -1,0 +1,9 @@
+Anel/93
+Klavdij/75
+Neda/12
+Olga/36
+Renato/25
+Silvana/63
+Tiana/50
+Verica/14
+Zora/5

@@ -1,0 +1,1 @@
+veoma glup zadatak sa putchar i getchar koji necu da radim
